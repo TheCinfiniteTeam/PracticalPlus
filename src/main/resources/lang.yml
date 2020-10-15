@@ -1,0 +1,9 @@
+#This is File is Plugin LANG File
+
+#String: XXX = 'XXX'
+#int: XXX = 1
+#Bool: XXX = true/false
+#list: XXX:
+#       - 'XXXX'
+#...
+

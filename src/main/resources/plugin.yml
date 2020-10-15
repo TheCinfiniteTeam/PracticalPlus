@@ -1,0 +1,7 @@
+name: PracticalPlus
+version: ${project.version}
+main: io.github.thecinfiniteteam.practicalplus.practicalplus.PracticalPlus
+api-version: 1.16
+authors: [ TheCinfiniteTeam ]
+description: Very Practical plus
+website: https://thecinfiniteteam.github.io/
